@@ -5,5 +5,6 @@ int main(){
 	for(int i=0;i<39;i++){
 		
 	}
+	double aaaa = 5.555;
 	return 0;
 }
